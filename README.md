@@ -8,11 +8,6 @@
     7. Push your code to the repository.
     8. Make a Pull request for the master branch. 
     
-
-## Design
-    https://www.figma.com/file/rSvgoJbyqF8hBLgUah7aSe/Gym%2FFitness-Variation-1?node-id=45%3A0
-
-
 ##  Deployment
 
 The application was deployed to netlify.
@@ -25,34 +20,9 @@ The application was deployed to netlify.
 *  Bootstrap
 
 
-##  Authors
-
-* **Crystalbell Omuboye** (https://github.com/bellomuboye) - Slack Username: **@Bell**
-* **Grace Babirye** (https://github.com/AyManuell) - Slack Username: **@GraceBabirye**
-* **Ridwan Ajanaku** (https://github.com/Lakesxo) - Slack Username: **@Lakes**
-* **Mawoya**  (https://github.com/Ademayowa) - Slack Username: **@mayorstacks**
-* **Olaide Gbeyide** (https://github.com/petrepan) - Slack Username: **@Peterpan**
-* **Ojemeh Progress Uzoma** (https://github.com/Rex739) - Slack Username: **@Rex[O2]**
-* **Oluseyi Imanah** (https://github.com/seyicole) - Slack Username: **@S3**
-* **Wisdom Osara** (https://github.com/wisdomosara) - Slack Username: **@wisdomosara**
-* **Etiene Essenoh** (https://github.com/St80ene) - Slack Username: **@St80ene**
-* **Wendy Munyasi** (https://github.com/wendymunyasi) - Slack Username: **@__wendy**
-
-
 ##  License
 
 This project is licensed under the MIT License.
-
-
-## Project-Setup Instructions.
-
-1. git clone using the following links.
-
-   link: https://github.com/hngi/NEW-AVENGERS-VARIATION-1-GYM-FITNESS.git
-
-2. Naviagte to the `NEW-AVENGERS-VARIATION-1-GYM-FITNESS` directory.
-3. Open the file `index.html` to view the app on your browser.
-
 
 ## BDD
 
@@ -69,8 +39,3 @@ This project is licensed under the MIT License.
 |Clicking `Contact` link on the navigation bar.|You are redirected to a page written various ways you can use to contact the gym.|
 
 
-## Sample Screenshot of a Part of the website
-
-<div style="text-align:center">
-    <img src="./images/landing.png">
-</div>
