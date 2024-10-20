@@ -1,7 +1,3 @@
-# Project Envato by Team Avengers - Gym/Fitness Website
-
-
-**Collaboration Instructions:**
 
     1. Clone this repository to your local PC.
     2. Your assets such as images, CSS file, JavaScript file should be placed in the Images, CSS, Javascript folders respectively in the assets folder.
